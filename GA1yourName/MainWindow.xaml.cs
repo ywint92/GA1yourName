@@ -23,6 +23,7 @@ namespace GA1yourName
         public MainWindow()
         {
             InitializeComponent();
+            MessageBox.Show("Your name and what you want to do after you graduate");
         }
     }
 }
